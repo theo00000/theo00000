@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Wesly Rismahadi 👋</h1>
 
 <p align="center">
-  Informatics Student • Software Engineering Enthusiast • Web Developer
+  Informatics Student BINUS University Online • Software Engineering Enthusiast • Web Developer
 </p>
 
 <p align="center">
