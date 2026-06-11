@@ -26,7 +26,6 @@ My goal is to grow as a developer who not only writes code, but also understands
 - Improving clean code and project structure
 - Learning frontend architecture with React and Next.js
 - Practicing API integration and role-based application flow
-- Preparing myself for Apple Developer Academy
 
 ---
 
@@ -46,21 +45,6 @@ My goal is to grow as a developer who not only writes code, but also understands
 ---
 
 ## 📌 Featured Projects
-
-### 🍱 MBG NutriSafe  
-A web-based food safety and allergy management platform built with TypeScript.  
-Focused on role-based UI, API integration, dashboard structure, and real-world problem solving.
-
-**Tech:** TypeScript, React, API Integration, UI Design
-
----
-
-### 🛒 E-Commerce Next.js  
-An e-commerce web application built to practice frontend architecture, product listing, component structure, and modern web development.
-
-**Tech:** Next.js, TypeScript, React
-
----
 
 ### 📚 Learning Support Platform  
 A learning support platform designed to help students access learning materials and manage study activities.
